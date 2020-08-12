@@ -1,4 +1,4 @@
-package staticFactory;
+package StaticFactory;
 
 import java.time.LocalDate;
 import java.util.HashMap;
