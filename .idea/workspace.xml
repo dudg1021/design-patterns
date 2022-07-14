@@ -1,13 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/AmericanFoodA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/AmericanFoodB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/AmericanFoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/ChineseFoodA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/ChineseFoodB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/ChineseFoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/FoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleEnum7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Adapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Adapter/ClassAdaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Adapter/ITarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Adapter/InterfaceAdaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Adapter/ObjectAdaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Proxy/BuyTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Proxy/BuyTicketImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Proxy/BuyTicketStaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Proxy/DynamicProxyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Proxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Green.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractFactory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/AbstractFactory/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Builder/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/SimpleFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/SimpleFactory/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/SimpleFactory/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/SimpleFactory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/SimpleFactory/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Prototype/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Prototype/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Prototype/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleEnum7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleObject4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleObject4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleObject5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleObject5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/SingleObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creation_Mode/Singleton/SingleObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StaticFactory/LocalDateFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StaticFactory/Main.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,74 +83,8 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="594567127">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="965" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="965" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Prototype/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Prototype/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/lang/Cloneable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="design-patterns" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,6 +93,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rea</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,6 +109,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Builder/Computer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Prototype/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/Prototype/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Adapter/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/main.java" />
       </list>
     </option>
   </component>
@@ -129,6 +127,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -136,11 +137,6 @@
         <option name="mavenHome" value="D:/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -159,7 +155,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="562" />
     <option name="y" value="100" />
     <option name="width" value="1290" />
@@ -172,6 +168,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,32 +195,22 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597228833602" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600917488319" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -230,33 +218,22 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Singleton" />
-      <recent name="staticFactory" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\design-patterns\src\main\java\AbstractFactory" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CreationPattern.Factory" />
+      <recent name="Singleton" />
+      <recent name="staticFactory" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractFactory.Main" />
+      <option name="MAIN_CLASS_NAME" value="Struct_Mode.Proxy.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="PATTERN" value="Struct_Mode.Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,24 +242,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Builder.Main" />
+      <option name="MAIN_CLASS_NAME" value="Struct_Mode.Adapter.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prototype.Main" />
-      <module name="design-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Prototype.*" />
+          <option name="PATTERN" value="Struct_Mode.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,11 +255,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticFactory.Main" />
+      <option name="MAIN_CLASS_NAME" value="CreationPattern.Singleton.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StaticFactory.*" />
+          <option name="PATTERN" value="CreationPattern.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,11 +268,37 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.Main" />
+      <option name="MAIN_CLASS_NAME" value="Creation_Mode.Prototype.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="Creation_Mode.Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creation_Mode.Factory.Main" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creation_Mode.Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,22 +319,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Matrix" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Matrix" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -359,109 +364,89 @@
       <workItem from="1596373882513" duration="5459000" />
       <workItem from="1596466953476" duration="1008000" />
       <workItem from="1597215532890" duration="4838000" />
+      <workItem from="1597289170952" duration="3780000" />
+      <workItem from="1598927277487" duration="75000" />
+      <workItem from="1600408721980" duration="8625000" />
+      <workItem from="1657608703663" duration="35995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4838000" />
+    <option name="totallyTimeSpent" value="17318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32998884" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49726775" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" sideWeight="0.5020464" side_tool="true" weight="0.1910569" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5005574" side_tool="true" weight="0.10394456" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39910814" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50278705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3846154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.23560767" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.10074627" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="875" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1596378304978">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="875" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596378304978" />
-    <state x="892" y="274" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596467310835">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="892" y="274" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596467310835" />
-    <state x="810" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596376412226">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="810" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1596376412226" />
-    <state x="759" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596374438450">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="759" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596374438450" />
-    <state x="300" y="119" key="FileChooserDialogImpl" timestamp="1596373425752">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="300" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596373425752" />
-    <state width="1323" height="73" key="GridCell.Tab.0.bottom" timestamp="1596467982011">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="73" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596467982011" />
-    <state width="1323" height="73" key="GridCell.Tab.0.center" timestamp="1596467982011">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="73" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596467982011" />
-    <state width="1323" height="73" key="GridCell.Tab.0.left" timestamp="1596467982011">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="73" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596467982011" />
-    <state width="1323" height="73" key="GridCell.Tab.0.right" timestamp="1596467982011">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="73" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596467982011" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1596374097135">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596374097135" />
-    <state x="526" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1596466951686">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="526" y="249" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596466951686" />
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>(N + 1) / 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>N / 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[N - i - 1][N - j - 1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[j][N - i - 1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[N - j - 1][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Builder/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -493,32 +478,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Prototype/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="336">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Prototype/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding>
+            <element signature="e#4318#4319#0" expanded="true" />
+            <element signature="e#4357#4358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2751">
+          <caret line="156" column="24" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+          <folding>
+            <element signature="e#6514#6515#0" expanded="true" />
+            <element signature="e#6542#6543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/lang/Readable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="317" column="9" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Adapter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="946" column="28" selection-start-line="946" selection-start-column="28" selection-end-line="946" selection-end-column="28" />
+          <folding>
+            <element signature="e#35486#35487#0" expanded="true" />
+            <element signature="e#35532#35533#0" expanded="true" />
+            <element signature="e#35824#35825#0" expanded="true" />
+            <element signature="e#35852#35853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
