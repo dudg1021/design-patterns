@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/BluePen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/DrawApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/RedPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Bridge/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Decorator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Decorator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Decorator/RedShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Decorator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Struct_Mode/Decorator/ShapeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Summary.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -347,7 +331,7 @@
       <workItem from="1597289170952" duration="3780000" />
       <workItem from="1598927277487" duration="75000" />
       <workItem from="1600408721980" duration="8625000" />
-      <workItem from="1657608703663" duration="40575000" />
+      <workItem from="1657608703663" duration="40912000" />
     </task>
     <task id="LOCAL-00001" summary="完善创建型模式，增加结构型模式代理&amp;适配器模式">
       <created>1657790418911</created>
