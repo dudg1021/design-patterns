@@ -21,3 +21,8 @@ https://blog.csdn.net/ThinkWon/article/details/103592572?ops_request_misc=%257B%
 外观模式  封装实例化过程
 组合模式  描述有层次结构的数据
 享元模式  特定场景缓存已创建对象，提高性能
+
+
+行为型模式：
+
+策略模式
