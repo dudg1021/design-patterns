@@ -5,13 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/OperationMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/OperationSubstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Broker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/BuyStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/SellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/HexObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/StartState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/StopState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Summary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,20 +203,20 @@
       <recent name="D:\workspace\design-patterns\src\main\java\AbstractFactory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Behavior_Mode.Command" />
+      <recent name="Behavior_Mode.Template" />
+      <recent name="Behavior_Mode.Chain" />
+      <recent name="Behavior_Mode.Observer" />
       <recent name="Behavior_Mode.Strategy" />
-      <recent name="Struct_Mode.Flyweight" />
-      <recent name="Struct_Mode.Decorator" />
-      <recent name="CreationPattern.Factory" />
-      <recent name="Singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavior_Mode.Strategy.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavior_Mode.Observer.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Behavior_Mode.Strategy.*" />
+          <option name="PATTERN" value="Behavior_Mode.Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +225,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Struct_Mode.Decorator.Main" />
+      <option name="MAIN_CLASS_NAME" value="Behavior_Mode.Chain.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Struct_Mode.Decorator.*" />
+          <option name="PATTERN" value="Behavior_Mode.Chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +238,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Struct_Mode.Facade.Main" />
+      <option name="MAIN_CLASS_NAME" value="Behavior_Mode.Template.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Struct_Mode.Facade.*" />
+          <option name="PATTERN" value="Behavior_Mode.Template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +251,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Struct_Mode.Composite.Main" />
+      <option name="MAIN_CLASS_NAME" value="Behavior_Mode.State.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Struct_Mode.Composite.*" />
+          <option name="PATTERN" value="Behavior_Mode.State.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,11 +264,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Struct_Mode.Flyweight.Main" />
+      <option name="MAIN_CLASS_NAME" value="Behavior_Mode.Command.Main" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Struct_Mode.Flyweight.*" />
+          <option name="PATTERN" value="Behavior_Mode.Command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,19 +329,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +364,7 @@
       <workItem from="1598927277487" duration="75000" />
       <workItem from="1600408721980" duration="8625000" />
       <workItem from="1657608703663" duration="40912000" />
-      <workItem from="1657849084276" duration="20934000" />
+      <workItem from="1657849084276" duration="59746000" />
     </task>
     <task id="LOCAL-00001" summary="完善创建型模式，增加结构型模式代理&amp;适配器模式">
       <created>1657790418911</created>
@@ -359,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657879802139</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加策略模式">
+      <created>1657881961844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657881961844</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -418,7 +446,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完善创建型模式，增加结构型模式代理&amp;适配器模式" />
     <MESSAGE value="增加组合模式、外观模式、享元模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加组合模式、外观模式、享元模式" />
+    <MESSAGE value="增加策略模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加策略模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/design_patterns$Main.ic" NAME="Main Coverage Results" MODIFIED="1657877802184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

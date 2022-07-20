@@ -26,3 +26,8 @@ https://blog.csdn.net/ThinkWon/article/details/103592572?ops_request_misc=%257B%
 行为型模式：
 
 策略模式
+观察者模式
+责任链模式
+模板方法模式
+状态模式
+命令模式
