@@ -9,7 +9,7 @@ package Behavior_Mode.Strategy;
 public class Main {
 
     /**
-     * 策略模式： 将算法封装为一个个类，任意替换调用。
+     * 策略模式： 将算法封装为一个个类，通过环境类任意替换调用。
      * @param args
      */
     public static void main(String[] args) {

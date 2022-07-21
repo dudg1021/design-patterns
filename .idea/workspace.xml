@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/AbstractLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/ErrorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Chain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Broker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/BuyStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/SellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/BinaryObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/HexObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/OctalObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/StartState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/State/StopState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Basketball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Football.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Template/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Command/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavior_Mode/Strategy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Summary.txt" afterDir="false" />
     </list>
@@ -364,7 +339,7 @@
       <workItem from="1598927277487" duration="75000" />
       <workItem from="1600408721980" duration="8625000" />
       <workItem from="1657608703663" duration="40912000" />
-      <workItem from="1657849084276" duration="59746000" />
+      <workItem from="1657849084276" duration="61475000" />
     </task>
     <task id="LOCAL-00001" summary="完善创建型模式，增加结构型模式代理&amp;适配器模式">
       <created>1657790418911</created>
@@ -387,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657881961844</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加责任链、观察者、策略、模板方法、命令、状态模式">
+      <created>1658313375093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658313375093</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -447,7 +429,8 @@
     <MESSAGE value="完善创建型模式，增加结构型模式代理&amp;适配器模式" />
     <MESSAGE value="增加组合模式、外观模式、享元模式" />
     <MESSAGE value="增加策略模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加策略模式" />
+    <MESSAGE value="增加责任链、观察者、策略、模板方法、命令、状态模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加责任链、观察者、策略、模板方法、命令、状态模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

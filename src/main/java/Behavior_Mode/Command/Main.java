@@ -9,7 +9,7 @@ package Behavior_Mode.Command;
 public class Main {
 
     /**
-     * 命令模式：将一哥请求封装成一个对象，从而使您可以用不同的请求对客户进行参数化。
+     * 命令模式：将一个请求封装成一个对象，从而使您可以用不同的请求对客户进行参数化。
      * @param args
      */
     public static void main(String[] args) {
