@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/ConsistenHash/ConsistentHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/ConsistenHash/HashService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/ConsistenHash/IHashService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/ConsistenHash/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/ConsistenHash/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c5a86a3-c2df-4b0f-8ae2-75bdf0634042" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -342,7 +335,7 @@
       <workItem from="1600408721980" duration="8625000" />
       <workItem from="1657608703663" duration="40912000" />
       <workItem from="1657849084276" duration="63242000" />
-      <workItem from="1658389472905" duration="14131000" />
+      <workItem from="1658389472905" duration="14456000" />
     </task>
     <task id="LOCAL-00001" summary="完善创建型模式，增加结构型模式代理&amp;适配器模式">
       <created>1657790418911</created>
@@ -386,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658372497816</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="增加一致性hash算法">
+      <created>1658473338522</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658473338522</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -448,7 +448,8 @@
     <MESSAGE value="增加策略模式" />
     <MESSAGE value="增加责任链、观察者、策略、模板方法、命令、状态模式" />
     <MESSAGE value="调整readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整readme" />
+    <MESSAGE value="增加一致性hash算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加一致性hash算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
